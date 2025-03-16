@@ -6,7 +6,7 @@ charset-normalizer==3.4.1
 click==8.1.8
 ctranslate2==4.5.0
 EbookLib==0.18
-epubparser==0.1.0
+epubparser==0.1.7
 filelock==3.17.0
 fsspec==2025.2.0
 h11==0.14.0
