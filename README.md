@@ -83,7 +83,7 @@ podman build -f Dockerfile.gradio -t babellica:gradio
 ```
 
 ```
-podman run --it --rm -p 7860:7680 --gpus=all babellica:gradio
+podman run -it --rm -p 7860:7680 --gpus=all babellica:gradio
 ```
 
 Alias:
